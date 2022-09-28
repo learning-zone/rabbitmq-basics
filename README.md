@@ -1,2 +1,2 @@
-# rabbitmq-interview-questions-
-RabbitMQ Interview Questions 
+# RabbitMQ Interview Questions
+
